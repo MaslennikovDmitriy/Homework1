@@ -10,6 +10,7 @@ int main()
     cout << "changing the master branch" << endl;
 =======
     cout << "start testing..." << endl;
->>>>>>> 0476f06 (first change)
+>>>>>> > 0476f06(first change)
+cout << "adding another string" << endl;
     return EXIT_SUCCESS; 
 }
