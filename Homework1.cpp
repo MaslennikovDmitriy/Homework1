@@ -12,5 +12,7 @@ int main()
     cout << "a - b = " << a - b << endl;
     cout << "a * b = " << a * b << endl;
     cout << "a / b = " << a / b << endl;
+
+    cout << "master branch test2" << endl;
     return EXIT_SUCCESS;
 }
